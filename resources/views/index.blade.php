@@ -86,7 +86,7 @@
             <p>Kami adalah tim developer berbakat dalam membuat website profesiaonal</p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Get Started</a>
-              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+              <a href="https://127.0.0.1:8000/videoexample" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
             </div>
           </div>
 
