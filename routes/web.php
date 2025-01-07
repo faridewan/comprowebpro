@@ -32,3 +32,7 @@ Route::get('/service', function () {
 Route::get('/prosedur', function () {
     return view('prosedur');
 });
+
+Route::get('/examplevideo', function () {
+    return view('video');
+});
